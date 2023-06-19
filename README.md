@@ -15,8 +15,8 @@
 - Spark
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Alireza&layout=compact&theme=midnight-purple" alt="Top Langs" width="35%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Alireza_H&width=300&count=3" alt="My scrobbles" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Alireza&layout=compact&theme=midnight-purple" alt="Top Langs" width="35%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Alireza_H&width=300&count=3" alt="My scrobbles" width="28%">
 </div>
 
 ### Feel free to reach out and connect!
